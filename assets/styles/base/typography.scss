@@ -1,7 +1,4 @@
-$baseFontSize: 18px;
-$titleFontSize: 1.444rem;
-$smallFontSize: 0.7778rem;
-$lineHeight: 1.3em;
+@import "~@enhavo/theme/vars.scss";
 
 html {font-size:$baseFontSize}
 body { font-size:100%; font-family:sans-serif; line-height:$lineHeight;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}

@@ -1,6 +1,4 @@
-$mainSpacing: 6.5em;
-$blockSpacing: 3.5em;
-$columnSpacing: 25px;
+@import "~@enhavo/theme/vars.scss";
 
 main { padding:$mainSpacing 0;}
 .block { padding-bottom:$blockSpacing;}
